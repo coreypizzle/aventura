@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'Helvetica', Arial, sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+  margin: 0 auto 0 auto;
+}
+
+.marg_top {
+  margin-top: 0;
+}
+
+.aventura {
+  height: 110px;
+  text-align: center;
+  font-size: 72pt;
+  margin: 0 auto 0px 0;
+}
+
+.aventura2 {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  font-weight: 200;
+  font-size: 22pt;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.white {
+  color: white;
+}
