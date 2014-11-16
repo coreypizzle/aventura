@@ -33,15 +33,15 @@ html, body {
 .aventura {
   height: 110px;
   text-align: center;
-  font-size: 72pt;
+  font-size: 62pt;
   margin: 0 auto 0px 0;
 }
 
 .aventura2 {
-  margin: 0 auto 0 auto;
+  margin: -15px auto 0 auto;
   text-align: center;
   font-weight: 200;
-  font-size: 22pt;
+  font-size: 18pt;
 }
 
 h1 {

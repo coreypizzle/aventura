@@ -46,9 +46,9 @@ h3 {
 }
 
 p {
-  font-size: 32pt;
+  font-size: 27pt;
   max-width: 666px;
-  border-right: 2px solid rgba(228, 228, 228, 1);
+  border-right: 2px solid rgba(210, 210, 210, 1);
   margin: 0 40px 40px 0;
   font-weight: 400;
   padding: 0 15px 0 0;
@@ -58,7 +58,7 @@ p {
  float: right;
  margin: 0 150px 0 0;
  height: auto;
- border-bottom: 2px solid rgba(228, 228, 228, 1);
+ border-bottom: 2px solid rgba(210, 210, 210, 1);
  max-width: 541px;
 }
 
@@ -87,5 +87,38 @@ p {
 }
 
 .bordfix {
-  margin: -370px 150px 0 0;
+  margin: -320px 90px 0 0;
+}
+
+.buttons {
+  width: 60%;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 35vh;
+}
+
+.button1 {
+  height: 50px;
+  background-color: #25a3d2;
+  width: 300px;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: 22pt;
+  border-radius: 50px;
+  float: left;
+}
+
+.button2 {
+  height: 50px;
+  background-color: #01b22f;
+  width: 300px;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: 22pt;
+  border-radius: 50px;
+  float: right;
 }
